@@ -19,6 +19,9 @@ setup(
             "plugins": [
                 "pandagl",
             ],
+            "platforms":[
+                "win_amd64"
+            ],
         },
     },
 )
